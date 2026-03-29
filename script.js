@@ -3,7 +3,6 @@ let expenses = [];
 function addExpense() {
   let desc = document.getElementById("desc").value;
   let amount = document.getElementById("amount").value;
-
   let category = predictCategory(desc);
 
   let expense = { desc, amount, category };
@@ -11,7 +10,6 @@ function addExpense() {
 
   displayExpenses();
 }
-
 function predictCategory(text) {
   text = text.toLowerCase();
 
