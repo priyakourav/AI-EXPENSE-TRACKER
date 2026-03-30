@@ -3,7 +3,6 @@ body {
   background: #f4f6f9;
   margin: 0;
 }
-
 .container {
   width: 90%;
   max-width: 500px;
@@ -22,7 +21,6 @@ h1 {
   border-radius: 12px;
   box-shadow: 0 4px 10px rgba(0,0,0,0.1);
 }
-
 input {
   width: 80%;
   padding: 10px;
@@ -30,7 +28,6 @@ input {
   border-radius: 8px;
   border: 1px solid #ccc;
 }
-
 button {
   padding: 10px 20px;
   border: none;
