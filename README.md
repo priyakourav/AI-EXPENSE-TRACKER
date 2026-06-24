@@ -53,7 +53,4 @@ AI-EXPENSE-TRACKER/
 *  Improve AI-based expense categorization
 *  Backend integration for cloud storage
 *  Multi-user support with authentication
----
-
-
-Give it a ⭐ on GitHub and feel free to contribute or suggest improvements!
+ 
