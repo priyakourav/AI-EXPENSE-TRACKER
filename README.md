@@ -1,4 +1,4 @@
-#  AI Expense Tracker
+#  Smart Expense Tracker
 
 A smart and interactive web-based Expense Tracker application that helps users manage, categorize, and
 analyze their daily expenses efficiently. Built using HTML, CSS, and JavaScript with intelligent rule-based 
@@ -28,7 +28,7 @@ categorization and local storage for persistent data.
 
 ##  Project Structure
 
-AI-EXPENSE-TRACKER/
+Smart-EXPENSE-TRACKER/
 │
 ├── index.html        # Main HTML file
 ├── style.css         # Styling file
