@@ -1,6 +1,6 @@
-#  Smart Expense Tracker
+# SpendWise – Smart Expense Tracker
 
-A smart and interactive web-based Expense Tracker application that helps users manage, categorize, and
+SpendWise is a smart and interactive web-based Expense Tracker application that helps users manage, categorize, and
 analyze their daily expenses efficiently. Built using HTML, CSS, and JavaScript with intelligent rule-based 
 categorization and local storage for persistent data.
 
